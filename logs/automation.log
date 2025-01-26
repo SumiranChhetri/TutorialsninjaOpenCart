@@ -1,0 +1,39 @@
+2025-01-26 00:08:10 INFO  Utils:112 - [TestNG] Running:
+  C:\_SDETQA\SeleniumCourse\AutomationFramework\docker.xml
+
+2025-01-26 00:08:14 INFO  TC001_AccountRegistration:33 - ****Starting TC001_AccountRegistration****
+2025-01-26 00:08:14 INFO  TC001_AccountRegistration:39 - ****clicked on the My Account link****
+2025-01-26 00:08:17 INFO  TC001_AccountRegistration:42 - ****clicked on the Register link****
+2025-01-26 00:08:17 INFO  TC001_AccountRegistration:48 - ***Providing customer details****
+2025-01-26 00:08:19 INFO  TC001_AccountRegistration:58 - ****Click on the Continue button****
+2025-01-26 00:08:21 INFO  TC001_AccountRegistration:74 - ****Validated that customer has been created ****
+2025-01-26 00:08:21 INFO  TC001_AccountRegistration:84 - ****Finished TC001_AccountRegistration****
+2025-01-26 00:08:24 INFO  TC002_LoginTestCase:23 - ************Starting TC002_LoginTestCase***********
+2025-01-26 00:08:25 INFO  TC002_LoginTestCase:41 - ************Finished TC002_LoginTestCase***********
+2025-01-26 13:48:47 INFO  TC001_AccountRegistration:33 - ****Starting TC001_AccountRegistration****
+2025-01-26 13:48:47 INFO  TC001_AccountRegistration:39 - ****clicked on the My Account link****
+2025-01-26 13:48:50 INFO  TC001_AccountRegistration:42 - ****clicked on the Register link****
+2025-01-26 13:48:50 INFO  TC001_AccountRegistration:48 - ***Providing customer details****
+2025-01-26 13:48:52 INFO  TC001_AccountRegistration:58 - ****Click on the Continue button****
+2025-01-26 13:48:54 INFO  TC001_AccountRegistration:74 - ****Validated that customer has been created ****
+2025-01-26 13:48:54 INFO  TC001_AccountRegistration:84 - ****Finished TC001_AccountRegistration****
+2025-01-26 13:48:58 INFO  TC002_LoginTestCase:23 - ************Starting TC002_LoginTestCase***********
+2025-01-26 13:49:00 INFO  TC002_LoginTestCase:41 - ************Finished TC002_LoginTestCase***********
+2025-01-26 14:29:22 INFO  TC001_AccountRegistration:33 - ****Starting TC001_AccountRegistration****
+2025-01-26 14:29:22 INFO  TC001_AccountRegistration:39 - ****clicked on the My Account link****
+2025-01-26 14:29:25 INFO  TC001_AccountRegistration:42 - ****clicked on the Register link****
+2025-01-26 14:29:25 INFO  TC001_AccountRegistration:48 - ***Providing customer details****
+2025-01-26 14:29:27 INFO  TC001_AccountRegistration:58 - ****Click on the Continue button****
+2025-01-26 14:29:29 INFO  TC001_AccountRegistration:74 - ****Validated that customer has been created ****
+2025-01-26 14:29:29 INFO  TC001_AccountRegistration:84 - ****Finished TC001_AccountRegistration****
+2025-01-26 14:29:33 INFO  TC002_LoginTestCase:23 - ************Starting TC002_LoginTestCase***********
+2025-01-26 14:29:35 INFO  TC002_LoginTestCase:41 - ************Finished TC002_LoginTestCase***********
+2025-01-26 14:35:07 INFO  TC001_AccountRegistration:33 - ****Starting TC001_AccountRegistration****
+2025-01-26 14:35:07 INFO  TC001_AccountRegistration:39 - ****clicked on the My Account link****
+2025-01-26 14:35:10 INFO  TC001_AccountRegistration:42 - ****clicked on the Register link****
+2025-01-26 14:35:10 INFO  TC001_AccountRegistration:48 - ***Providing customer details****
+2025-01-26 14:35:11 INFO  TC001_AccountRegistration:58 - ****Click on the Continue button****
+2025-01-26 14:35:13 INFO  TC001_AccountRegistration:74 - ****Validated that customer has been created ****
+2025-01-26 14:35:13 INFO  TC001_AccountRegistration:84 - ****Finished TC001_AccountRegistration****
+2025-01-26 14:35:17 INFO  TC002_LoginTestCase:23 - ************Starting TC002_LoginTestCase***********
+2025-01-26 14:35:19 INFO  TC002_LoginTestCase:41 - ************Finished TC002_LoginTestCase***********

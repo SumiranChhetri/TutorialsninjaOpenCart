@@ -1,0 +1,12 @@
+C:\_SDETQA\SeleniumCourse\AutomationFramework\src\test\java\pageObjects\HomePage.java
+C:\_SDETQA\SeleniumCourse\AutomationFramework\src\test\java\pageObjects\AccountRegistrationPage.java
+C:\_SDETQA\SeleniumCourse\AutomationFramework\src\test\java\testCases\TC001_AccountRegistration.java
+C:\_SDETQA\SeleniumCourse\AutomationFramework\src\test\java\testCases\TC003_LoginDataDrivenTestCase.java
+C:\_SDETQA\SeleniumCourse\AutomationFramework\src\test\java\testBase\BaseClass.java
+C:\_SDETQA\SeleniumCourse\AutomationFramework\src\test\java\testCases\TC002_LoginTestCase.java
+C:\_SDETQA\SeleniumCourse\AutomationFramework\src\test\java\utilities\ExtentReportManager.java
+C:\_SDETQA\SeleniumCourse\AutomationFramework\src\test\java\pageObjects\BasePage.java
+C:\_SDETQA\SeleniumCourse\AutomationFramework\src\test\java\pageObjects\MyAccountPage.java
+C:\_SDETQA\SeleniumCourse\AutomationFramework\src\test\java\pageObjects\LoginPage.java
+C:\_SDETQA\SeleniumCourse\AutomationFramework\src\test\java\utilities\ExcelUtility.java
+C:\_SDETQA\SeleniumCourse\AutomationFramework\src\test\java\utilities\DataProviders.java
