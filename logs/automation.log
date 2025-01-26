@@ -37,3 +37,12 @@
 2025-01-26 14:35:13 INFO  TC001_AccountRegistration:84 - ****Finished TC001_AccountRegistration****
 2025-01-26 14:35:17 INFO  TC002_LoginTestCase:23 - ************Starting TC002_LoginTestCase***********
 2025-01-26 14:35:19 INFO  TC002_LoginTestCase:41 - ************Finished TC002_LoginTestCase***********
+2025-01-26 23:42:22 INFO  TC001_AccountRegistration:33 - ****Starting TC001_AccountRegistration****
+2025-01-26 23:42:22 INFO  TC001_AccountRegistration:39 - ****clicked on the My Account link****
+2025-01-26 23:42:25 INFO  TC001_AccountRegistration:42 - ****clicked on the Register link****
+2025-01-26 23:42:25 INFO  TC001_AccountRegistration:48 - ***Providing customer details****
+2025-01-26 23:42:26 INFO  TC001_AccountRegistration:58 - ****Click on the Continue button****
+2025-01-26 23:42:29 INFO  TC001_AccountRegistration:74 - ****Validated that customer has been created ****
+2025-01-26 23:42:29 INFO  TC001_AccountRegistration:84 - ****Finished TC001_AccountRegistration****
+2025-01-26 23:42:32 INFO  TC002_LoginTestCase:23 - ************Starting TC002_LoginTestCase***********
+2025-01-26 23:42:33 INFO  TC002_LoginTestCase:41 - ************Finished TC002_LoginTestCase***********
